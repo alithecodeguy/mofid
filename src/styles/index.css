@@ -1,6 +1,9 @@
 /* font stylesheet */
 @import './fonts.css';
 
+@import 'react-grid-layout/css/styles.css';
+@import 'react-resizable/css/styles.css';
+
 /* tailwind */
 @tailwind base;
 @tailwind components;
@@ -26,4 +29,11 @@
 	animation-duration: 10000ms;
 	animation-iteration-count: infinite;
 	animation-timing-function: linear;
+}
+
+/*  */
+
+.react-grid-layout {
+	direction: ltr;
+	overflow: hidden;
 }

@@ -1,5 +1,5 @@
 //library
-import { useEffect, useLayoutEffect } from 'react'
+import { useLayoutEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import { BrowserRouter, useLocation } from 'react-router-dom'
 import { useSharedContext } from './context/shared/SharedContext'
