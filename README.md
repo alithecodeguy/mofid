@@ -1,4 +1,4 @@
-# Back Office Console
+# Mofid Console
 
 ## How to use
 
